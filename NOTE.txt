@@ -1,0 +1,6 @@
+pip install django
+pip install django --upgrade
+workon ecp //to enetr the virtual envorment.
+py manage.py runserver // to run server
+http://127.0.0.1:8000 // ip address of django
+py manage.py startapp appname // To open new module in project
